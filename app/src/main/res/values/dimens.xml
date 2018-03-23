@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DIMENSIONS -->
+    <dimen name="dimen_list_height_96">96dp</dimen>
+    <dimen name="dimen_list_height_286">286dp</dimen>
+    <dimen name="dimen_profile_image">136dp</dimen>
+    <dimen name="dimen_32">32dp</dimen>
+    <dimen name="dimen_16">16dp</dimen>
+    <dimen name="dimen_8">8dp</dimen>
+    <dimen name="dimen_4">4dp</dimen>
+    <dimen name="dimen_2">2dp</dimen>
+    <!-- TEXT SIZES -->
+    <dimen name="text_size_24">24sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_12">12sp</dimen>
+
+</resources>

@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <!-- PROFILE VIEW TEXTS -->
+    <!-- Text to display nickname [CHAR LIMIT=10] -->
+    <string name="profile_nickname_text">Nickname&#8230;</string>
+    <string name="profile_male_text">Male</string>
+    <string name="profile_female_text">Female</string>
+    <string name="set_profile_button_text">Set Profile</string>
+    <string name="reset_profile_button_text">Reset</string>
+    <string name="welcome_text">Welcome</string>
+    <!-- Hint displayed in ListView question type 4 [CHAR LIMIT=12] -->
+    <string name="only_caps_hint_text">Only CAPS</string>
+    <!-- JAVA TEXTS -->
+    <string name="welcome_male_text">Welcome, Mr.</string>
+    <string name="welcome_female_text">Welcome, Miss.</string>
+    <string name="set_profile_validation_text">Please enter nickname and gender!</string>
+    <string name="out_of_five">/5</string>
+    <string name="toast_score_text">Your score is:&#160;</string>
+    <!-- IMAGE DESCRIPTION TEXTS -->
+    <string name="profile_image_description_text">Profile Image</string>
+    <string name="image_description_one_text">Image Answer One</string>
+    <string name="image_description_two_text">Image Answer Two</string>
+    <string name="image_description_three_text">Image Answer Three</string>
+    <string name="image_description_four_text">Image Answer Four</string>
+    <!-- SCORE TEXTS -->
+    <string name="score_button_text">Results</string>
+    <string name="reset_score_button_text">Clear</string>
+    <string name="quiz_score_text">Quiz Score</string>
+    <!-- QUIZ ARRAY QUESTIONS -->
+    <string name="question_1_main_text">What is Zumba?</string>
+    <string name="question_2_main_text">How many planets are there in our \nsolar system?</string>
+    <string name="question_3_main_text">Which of the following monuments \nis the Parthenon?</string>
+    <string name="question_4_main_text">What is the capital city of Spain?</string>
+    <string name="question_5_main_text">What is the world\'s longest river?</string>
+    <!-- QUIZ ARRAY ANSWERS -->
+    <string name="question_1_answer_1">Dance</string>
+    <string name="question_1_answer_2">Planet</string>
+    <string name="question_1_answer_3">Martial Art</string>
+    <string name="question_1_answer_4">Workout</string>
+    <string name="question_2_answer_1">Seven</string>
+    <string name="question_2_answer_2">Nine</string>
+    <string name="question_2_answer_3">Eight</string>
+    <string name="question_2_answer_4">Five</string>
+    <string name="question_4_answer_1">MADRID</string>
+    <string name="question_5_answer_1">Paraná</string>
+    <string name="question_5_answer_2">Amazon</string>
+    <string name="question_5_answer_3">Nile</string>
+    <string name="question_5_answer_4">Congo</string>
+
+</resources>
